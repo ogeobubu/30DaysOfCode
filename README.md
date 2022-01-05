@@ -6,7 +6,7 @@ This is a repository for data structures and algorithms using HackerRank 30DaysO
 
 ## ROADMAP FOR LEARNING DATA STRUCTURES 🤔
 
-DSA otherwise called Data Structure and Algorithm requires your consistency and practice in solving real life problems as a programmer. As a complete beginner I believe this resource could be of help to you.
+DSA otherwise called Data Structure and Algorithm requires your consistency and practice in solving real life problems as a programmer. As a complete beginner I believe this resource could be of help to you..
 
 ## RESOURCES 📚
 
