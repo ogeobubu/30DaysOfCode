@@ -62,5 +62,5 @@ function main() {
     let price = +readLine()
 
     let book = new MyBook(title, author, price)
-    book.display()
+    book.display();
 }
